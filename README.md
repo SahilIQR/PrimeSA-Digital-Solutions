@@ -44,8 +44,9 @@ The editable example amounts are in `config.js`, under `prices`:
 - `starter.amount` — Starter Website.
 - `business.amount` — Business Website.
 - `maintenance.amount` — Website Maintenance.
+- `simple.amount` — Simple Website (R300 once-off).
 
-The maintenance cadence is shown as monthly. These are proposed introductory prices, subject to an agreed scope of work; they do not specify unapproved package inclusions.
+The maintenance cadence is shown as monthly. The Simple Website package has a once-off price and its inclusions, exclusions and single minor-revision round are listed in the pricing section. Extra work and costs must be agreed before work begins.
 
 ## Feature status
 
